@@ -48,7 +48,7 @@ const Carlisha = () => {
         <CardBody>
           <CardTitle tag="h3"
             style={{
-              fontFamily: 'Vibur, cursive',
+              // fontFamily: 'Vibur, cursive',
             }}
           >
             Carlisha Wilson
@@ -57,7 +57,7 @@ const Carlisha = () => {
             className="mb-2 text-muted"
             tag="h5"
             style={{
-              fontFamily: 'Vibur, cursive',
+              // fontFamily: 'Vibur, cursive',
             }}
           >
             UX/UI, Design
@@ -67,7 +67,7 @@ const Carlisha = () => {
           >
             <div 
               style={{
-                fontFamily: 'Vibur, cursive',
+                // fontFamily: 'Vibur, cursive',
               }}
               className="header text-primary mb-3" {...getToggleProps()}>
               {isExpanded ? 'Read Less' : 'Read More'}

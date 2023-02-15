@@ -27,7 +27,7 @@ const LoginForm = () => {
           <Card
             style={{
               width: '60rem',
-              fontFamily: 'Vibur, cursive',
+              // fontFamily: 'Vibur, cursive',
               border: '1rem solid #70BA89'
             }}
           >
@@ -78,7 +78,7 @@ const LoginForm = () => {
                     <button
                       style={{
                         backgroundColor: '#70BA89',
-                        fontFamily: 'Vibur, cursive',
+                        // fontFamily: 'Vibur, cursive',
                       }}
                       className="btn btnhover text-white">SUBMIT</button>
                   </div>

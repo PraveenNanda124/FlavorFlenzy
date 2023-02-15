@@ -48,14 +48,14 @@ const Christine = () => {
         <CardBody>
           <CardTitle 
             style={{
-              fontFamily: 'Vibur, cursive',
+              // fontFamily: 'Vibur, cursive',
             }}
             tag="h3">
             Christine Boegemann
           </CardTitle>
           <CardSubtitle
             style={{
-              fontFamily: 'Vibur, cursive',
+              // fontFamily: 'Vibur, cursive',
             }}
             className="mb-2 text-muted"
             tag="h5"
@@ -67,7 +67,7 @@ const Christine = () => {
           >
             <div 
               style={{
-                fontFamily: 'Vibur, cursive',
+                // fontFamily: 'Vibur, cursive',
               }}
               className="header text-primary mb-3" {...getToggleProps()}>
               {isExpanded ? 'Read Less' : 'Read More'}

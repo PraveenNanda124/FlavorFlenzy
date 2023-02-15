@@ -38,7 +38,7 @@ const Mollie = () => {
           </CardTitle>
           <CardSubtitle
             style={{
-              fontFamily: 'Vibur, cursive',
+              // fontFamily: 'Vibur, cursive',
             }}
             className="mb-2 text-muted"
             tag="h5"
@@ -47,7 +47,7 @@ const Mollie = () => {
           </CardSubtitle>
           <CardText 
             style={{
-              fontFamily: 'Vibur, cursive',
+              // fontFamily: 'Vibur, cursive',
             }}
             className="text-white">
             Read More

@@ -6,14 +6,15 @@ const Footer = () => (
       style={{
         textDecoration: 'none'
       }}
-    href="https://girldevelopit.com/">
+    href="">
       <h4
       className="text-white"
       style={{
-        fontFamily: 'Vibur, cursive',
+        // fontFamily: 'Vibur, cursive',
       }}
       >
-        Built for Girl Develop It Virtual Hackathon 2022 ©
+        Unleash the Flavor, Elevate Your Cooking Game.
+        <br /> © 2022
       </h4>
     </a>
   </div>

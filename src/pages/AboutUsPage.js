@@ -41,7 +41,7 @@ const AboutUsPage = () => {
             >
               <h2
                 style={{
-                  fontFamily: 'Vibur, cursive',
+                  // fontFamily: 'Vibur, cursive',
                 }}
               >Our Mission</h2>
               <p>"Note to Chef" makes adjusting for dietary accommodations simple by bringing common restrictions to the forefront of the recipe search experience. From the home page, select any number of overlapping dietary restrictions and a curated list of 10 top recipes will populate!</p>
@@ -63,11 +63,11 @@ const AboutUsPage = () => {
           </Col>
         </Row>
       </Card>
-      <Row className="d-flex align-items-center justify-content-center">
+      {/* <Row className="d-flex align-items-center justify-content-center">
         <h2 
           className="text-center mt-5 mb-3"
           style={{
-            fontFamily: 'Vibur, cursive',
+            // fontFamily: 'Vibur, cursive',
           }}
         >Our Team</h2>
         <Col className="d-flex align-items-center justify-content-center mb-3"><Christine /></Col>
@@ -79,7 +79,7 @@ const AboutUsPage = () => {
         <Col className="d-flex align-items-center justify-content-center mb-3"><Mollie /></Col>
         <Col className="d-flex align-items-center justify-content-center mb-3"><Polina /></Col>
         <Col className="d-flex align-items-center justify-content-center mb-3"><Lindsay /></Col>
-      </Row>
+      </Row> */}
       <Card className="mb-3"
         style={{
           border: '1rem solid #70BA89',
@@ -100,7 +100,7 @@ const AboutUsPage = () => {
             <div className="p-5">
               <h2
                 style={{
-                  fontFamily: 'Vibur, cursive',
+                  // fontFamily: 'Vibur, cursive',
                 }}
               >About Us</h2>
               <p>Our team came together around a passion for nutrition and inclusion for diverse dietary needs during the GirlDevelopIt 2nd Annual Virtual Hackathon 2022.</p>
@@ -109,7 +109,7 @@ const AboutUsPage = () => {
             </div>
           </Col>
         </Row>
-        <div
+        {/* <div
           className="text-end"
           style={{
             backgroundColor: '#70BA89'
@@ -119,12 +119,12 @@ const AboutUsPage = () => {
             <button
               className="btn text-white hover-dark"
               style={{
-                fontFamily: 'Vibur, cursive',
+                // fontFamily: 'Vibur, cursive',
                 backgroundColor: '#70BA89'
               }}
             >GITHUB REPOSITORY</button>
           </a>
-        </div>
+        </div> */}
       </Card>
     </Container>
 

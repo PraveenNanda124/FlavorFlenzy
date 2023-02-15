@@ -30,7 +30,7 @@ const RegisterForm = () => {
           <Card
             style={{
               width: '60rem',
-              fontFamily: 'Vibur, cursive',
+              // fontFamily: 'Vibur, cursive',
               border: '1rem solid #70BA89'
             }}
           >

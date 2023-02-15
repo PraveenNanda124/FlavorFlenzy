@@ -38,7 +38,7 @@ const Gauri = () => {
           </CardTitle>
           <CardSubtitle
             style={{
-              fontFamily: 'Vibur, cursive',
+              // fontFamily: 'Vibur, cursive',
             }}
             className="mb-2 text-muted"
             tag="h5"

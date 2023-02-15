@@ -93,7 +93,7 @@ const SavedRecipesDetail = () => {
           <button
           style={{
             backgroundColor: '#70BA89',
-            fontFamily: 'Vibur, cursive',
+            // fontFamily: 'Vibur, cursive',
           }}
           className="m-3 btn btnhover btn-lg text-white"
           onClick={() => navigate('/collections')}

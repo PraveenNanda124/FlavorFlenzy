@@ -30,12 +30,12 @@ function Header(args) {
         <NavbarBrand href="/"
           style={{
             color: 'white',
-            fontFamily: 'Vibur, cursive',
+            // fontFamily: 'Vibur, cursive',
             fontSize: '3rem',
             padding: '1rem',
             textShadow: '2px 2px 1rem black'
           }}
-        >Note to Chef</NavbarBrand>
+        >FlavorFrenzy</NavbarBrand>
         <NavbarToggler className="navbar-dark" onClick={toggle} />
         <Collapse isOpen={isOpen} navbar>
           <Nav className="me-auto mb-2 mb-lg-0 mx-3" navbar

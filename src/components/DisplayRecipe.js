@@ -71,7 +71,7 @@ const DisplayRecipe = () => {
       }}>
       <h2 className="mb-3"
         style={{
-          fontFamily: 'Vibur, cursive'
+          // fontFamily: 'Vibur, cursive'
         }}
       >{responseData.title}</h2>
       <Row>
@@ -86,7 +86,7 @@ const DisplayRecipe = () => {
       <button
         style={{
           backgroundColor: '#70BA89',
-          fontFamily: 'Vibur, cursive',
+          // fontFamily: 'Vibur, cursive',
         }}
         className="m-3 btn btnhover btn-lg text-white"
         onClick={() => navigate('/recipes')}
@@ -94,7 +94,7 @@ const DisplayRecipe = () => {
       <button
         style={{
           color: '#70BA89',
-          fontFamily: 'Vibur, cursive',
+          // fontFamily: 'Vibur, cursive',
           border: '1px solid #70BA89'
         }}
         className="m-3 btn btnhover btn-lg btn-white" onClick={() => navigate('/collections')}>SAVE</button>

@@ -47,7 +47,7 @@ const SavedRecipesPage = () => {
           <Row
             className="text-center"
             style={{
-              fontFamily: 'Vibur, cursive',
+              // fontFamily: 'Vibur, cursive',
             }}
           >
             <Col>
@@ -66,7 +66,7 @@ const SavedRecipesPage = () => {
           <Row
             className="text-center mt-3"
             style={{
-              fontFamily: 'Vibur, cursive',
+              // fontFamily: 'Vibur, cursive',
             }}
           >
             <Col>
@@ -81,7 +81,7 @@ const SavedRecipesPage = () => {
                   maxWidth: '18rem',
                   backgroundColor: '#123B1F',
                   border: 'none',
-                  fontFamily: 'Vibur, cursive'
+                  // fontFamily: 'Vibur, cursive'
                 }}
               >
                 <CardBody>

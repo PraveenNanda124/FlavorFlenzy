@@ -116,7 +116,7 @@ const LandingPage = (props) => {
             <Row
               className="text-center"
               style={{
-                fontFamily: 'Vibur, cursive',
+                // fontFamily: 'Vibur, cursive',
               }}
             >
               <Col>
@@ -137,7 +137,7 @@ const LandingPage = (props) => {
                     maxWidth: '18rem',
                     border: '1rem solid #70BA89',
                     backgroundColor: '#70BA89',
-                    fontFamily: 'Vibur, cursive',
+                    // fontFamily: 'Vibur, cursive',
                   }}>
                   <div style={{
                     maxWidth: '256px',
@@ -169,7 +169,7 @@ const LandingPage = (props) => {
                     maxWidth: '18rem',
                     border: '1rem solid #70BA89',
                     backgroundColor: '#70BA89',
-                    fontFamily: 'Vibur, cursive',
+                    // fontFamily: 'Vibur, cursive',
                   }}>
                   <div style={{
                     maxWidth: '256px',
@@ -197,7 +197,7 @@ const LandingPage = (props) => {
             <Row
               className="text-center"
               style={{
-                fontFamily: 'Vibur, cursive',
+                // fontFamily: 'Vibur, cursive',
               }}
             >
               <Col>
@@ -219,7 +219,7 @@ const LandingPage = (props) => {
                     maxWidth: '18rem',
                     border: '1rem solid #70BA89',
                     backgroundColor: '#70BA89',
-                    fontFamily: 'Vibur, cursive',
+                    // fontFamily: 'Vibur, cursive',
                   }}>
                   <div style={{
                     maxWidth: '256px',
@@ -252,7 +252,7 @@ const LandingPage = (props) => {
                     maxWidth: '18rem',
                     border: '1rem solid #70BA89',
                     backgroundColor: '#70BA89',
-                    fontFamily: 'Vibur, cursive',
+                    // fontFamily: 'Vibur, cursive',
                     borderRadius: '0.5rem'
                   }}>
                   <div style={{
@@ -288,7 +288,7 @@ const LandingPage = (props) => {
                     maxWidth: '18rem',
                     border: '1rem solid #70BA89',
                     backgroundColor: '#70BA89',
-                    fontFamily: 'Vibur, cursive',
+                    // fontFamily: 'Vibur, cursive',
                   }}>
                   <div style={{
                     maxWidth: '256px',
@@ -321,7 +321,7 @@ const LandingPage = (props) => {
                     maxWidth: '18rem',
                     border: '1rem solid #70BA89',
                     backgroundColor: '#70BA89',
-                    fontFamily: 'Vibur, cursive',
+                    // fontFamily: 'Vibur, cursive',
                   }}>
                   <div style={{
                     maxWidth: '256px',
@@ -356,7 +356,7 @@ const LandingPage = (props) => {
                     maxWidth: '18rem',
                     border: '1rem solid #70BA89',
                     backgroundColor: '#70BA89',
-                    fontFamily: 'Vibur, cursive',
+                    // fontFamily: 'Vibur, cursive',
                   }}>
                   <div style={{
                     maxWidth: '256px',
@@ -420,13 +420,13 @@ const LandingPage = (props) => {
                 <button 
                   style={{
                     backgroundColor: '#70BA89',
-                    fontFamily: 'Vibur, cursive',
+                    // fontFamily: 'Vibur, cursive',
                   }}
                   className="m-3 btn btnhover btn-lg text-white greenbtn" onClick={() => clearIntolerances()}>CLEAR</button>
                 <button 
                   style={{
                     color: '#70BA89',
-                    fontFamily: 'Vibur, cursive',
+                    // fontFamily: 'Vibur, cursive',
                     border: '1px solid #70BA89'
                   }}
                   className="m-3 btn btnhover btn-lg btn-white" onClick={() => handleSubmit()}>SUBMIT</button>

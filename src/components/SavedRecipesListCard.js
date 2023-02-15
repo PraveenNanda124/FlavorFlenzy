@@ -22,7 +22,7 @@ const SavedRecipesListCard = (props) => {
         height: '24rem',
         backgroundColor: '#70BA89',
         border: 'none',
-        fontFamily: 'Vibur, cursive'
+        // fontFamily: 'Vibur, cursive'
       }}
     >
       <div style={{

@@ -32,14 +32,14 @@ const Polina = () => {
         <CardBody>
           <CardTitle 
             style={{
-              fontFamily: 'Vibur, cursive',
+              // fontFamily: 'Vibur, cursive',
             }}
             tag="h3">
           Polina Hermans
           </CardTitle>
           <CardSubtitle
             style={{
-              fontFamily: 'Vibur, cursive',
+              // fontFamily: 'Vibur, cursive',
             }}
             className="mb-2 text-muted"
             tag="h5"
@@ -48,7 +48,7 @@ const Polina = () => {
           </CardSubtitle>
           <CardText 
             style={{
-              fontFamily: 'Vibur, cursive',
+              // fontFamily: 'Vibur, cursive',
             }}
             className="text-white">
             Read More

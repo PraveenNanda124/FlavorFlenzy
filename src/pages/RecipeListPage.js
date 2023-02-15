@@ -52,7 +52,7 @@ const RecipeListPage = (props) => {
             <Row
               className="text-center"
               style={{
-                fontFamily: 'Vibur, cursive',
+                // fontFamily: 'Vibur, cursive',
               }}
             >
               <Col>
@@ -72,7 +72,7 @@ const RecipeListPage = (props) => {
                           maxHeight: '24rem',
                           backgroundColor: '#70BA89',
                           border: 'none',
-                          fontFamily: 'Vibur, cursive'
+                          // fontFamily: 'Vibur, cursive'
                         }}
                       >
                         <div style={{
@@ -108,7 +108,7 @@ const RecipeListPage = (props) => {
               <button
                 style={{
                   backgroundColor: '#70BA89',
-                  fontFamily: 'Vibur, cursive',
+                  // fontFamily: 'Vibur, cursive',
                 }}
                 className="m-3 btn btnhover btn-lg text-white" onClick={() => navigate('/')}>BACK</button>
             </div>

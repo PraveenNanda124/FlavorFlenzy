@@ -34,14 +34,14 @@ const Lindsay = () => {
         <CardBody>
           <CardTitle 
             style={{
-              fontFamily: 'Vibur, cursive',
+              // fontFamily: 'Vibur, cursive',
             }}
             tag="h3">
             Lindsay Rogers
           </CardTitle>
           <CardSubtitle
             style={{
-              fontFamily: 'Vibur, cursive',
+              // fontFamily: 'Vibur, cursive',
             }}
             className="mb-2 text-muted"
             tag="h5"
@@ -50,7 +50,7 @@ const Lindsay = () => {
           </CardSubtitle>
           <CardText 
             style={{
-              fontFamily: 'Vibur, cursive',
+              // fontFamily: 'Vibur, cursive',
             }}
             className="text-white">
             Read More
